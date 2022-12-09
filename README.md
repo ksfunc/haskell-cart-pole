@@ -1,1 +1,1 @@
-# CartPole
+# haskell-cart-pole
